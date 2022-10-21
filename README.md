@@ -1,5 +1,5 @@
 - @tedsandler
-- Math, music, machine learning
+- Math, Music, Machine Learning
 
 <!---
 tedsandler/tedsandler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

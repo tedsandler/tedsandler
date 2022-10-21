@@ -1,5 +1,5 @@
 - @tedsandler
-- I’m interested in machine learning
+- I’m interested in math, music and machine learning
 
 <!---
 tedsandler/tedsandler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
